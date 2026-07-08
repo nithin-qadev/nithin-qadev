@@ -39,46 +39,6 @@ I'm a **Full Stack QA Engineer** - I don't just find bugs, I build the infrastru
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithin-qadev&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-qadev&layout=compact&theme=vue&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nithin-qadev&theme=vue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 🔬 [api-testing-restassured](https://github.com/nithin-qadev/api-testing-restassured)
-> Java-based API test automation framework using Rest Assured — covers CRUD operations, auth flows, schema validation, and CI integration.
-
-`Java` `Rest Assured` `TestNG` `Maven` `CI/CD`
-
----
-
-### 🎭 [qa-webui-playwright](https://github.com/nithin-qadev/qa-webui-playwright)
-> End-to-end UI test suite using Playwright — page object model, parallel execution, and cross-browser coverage.
-
-`Java` `Playwright` `Page Object Model`
-
----
-
-### 🧪 [api-mock-server-for-testing](https://github.com/nithin-qadev/api-mock-server-for-testing)
-> Lightweight mock server for simulating APIs during testing — useful for contract testing and isolated component validation.
-
-`Python` `Mock Server` `API Testing`
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
